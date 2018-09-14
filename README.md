@@ -24,14 +24,13 @@ Access your device any where over the web
 未来准备支持:
 
 1. 一个账户下的多个设备互通 - n2n 
-
 2. 邮件发送接收
-
 3. openwrt的web管理 - luci
-
 4. 等等
 
-   
+
+
+程序正在完善中...
 
 ![](doc/img/6.png)
 
