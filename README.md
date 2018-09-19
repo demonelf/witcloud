@@ -1,7 +1,7 @@
 # witcloud
 Access your device any where over the web 
 
-
+客户端:https://github.com/demonelf/dnsnat.git
 
 在任何地方只要通过web就可以访问你的终端设备
 
@@ -26,7 +26,8 @@ Access your device any where over the web
 1. 一个账户下的多个设备互通 - n2n 
 2. 邮件发送接收
 3. openwrt的web管理 - luci
-4. 等等
+4. ftp管理 文件中转
+5. 等
 
 
 
